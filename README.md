@@ -3,6 +3,8 @@
 
 #### In this project, I use python to analyze Airbnb listings as a qualitative and quantitative data and Tableau to visualize Airbnb New York listings and review
 
+##### Python Code: https://github.com/ellaclauz/Airbnb-NYC-2019/blob/main/Airbnb_NYC_2019.ipynb
+
 ## TAKEAWAYS
 1. Among the 5 Boroughs of New York, Manhattan which is geographically the smallest and is the most densely populated, generates the highest revenue of over $792m for Airbnb in 2019. 
 
